@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe/)
+- 📚 I am currently studying at [IES ISAAC PERAL](https://www.educa2.madrid.org/web/centro.ies.isaacperal.torrejondeardoz)
 
 - 🌱 I am currently in the race **Software Design and Development**
 
@@ -46,6 +46,6 @@
 
 ------
 
-Credit: [Anderson Mendoza](https://github.com/andermendoza)
+
 
 Last Edited on: 26/09/2022
