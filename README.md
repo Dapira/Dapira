@@ -15,7 +15,7 @@
 
 - 🌱 I am currently in the race **Software Design and Development**
 
-- 🏙 Grivanni03 
+- 🏙 Grivani03 
 
 - 📫 How to reach me **grivanni03@gmail.com**
 
