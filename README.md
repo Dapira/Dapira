@@ -8,16 +8,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
 
 <!-- TROFEOS GITHUB -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dapira&theme=dracula&column=7" alt="Dapira" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [IES ISAAC PERAL](https://www.educa2.madrid.org/web/centro.ies.isaacperal.torrejondeardoz)
 
 - 🌱 I am currently in the race **Software Design and Development**
 
-- 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
+- 🏙 Grivanni03 
 
-- 📫 How to reach me **davidmramos30@gmail.com**
+- 📫 How to reach me **grivanni03@gmail.com**
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
