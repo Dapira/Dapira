@@ -9,6 +9,7 @@
 
 <!-- TROFEOS GITHUB -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dapira&theme=dracula&column=7" alt="Dapira" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [IES ISAAC PERAL](https://www.educa2.madrid.org/web/centro.ies.isaacperal.torrejondeardoz)
