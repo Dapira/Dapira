@@ -8,8 +8,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dapira&label=Profile%20views&color=0e75b6&style=flat" alt="Dapira" /> </p>
 
 <!-- TROFEOS GITHUB -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dapira&theme=dracula&column=7" alt="Dapira" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dapira-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dapira&theme=dracula&column=7" alt="Dapira's trophies" />
+  </a>
+</p>
+
+
 
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [IES ISAAC PERAL](https://www.educa2.madrid.org/web/centro.ies.isaacperal.torrejondeardoz)
