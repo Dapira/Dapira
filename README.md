@@ -71,25 +71,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dapira&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<!-- LOGROS DESBLOQUEADOS -->
-## 🏅 Unlocked Achievements
+<!-- ACTIVIDAD EN TIEMPO REAL -->
+## ⚡ Real-time Activity
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60">
-        <br>Pull Shark
-      </td>
-      <td align="center">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60">
-        <br>Starstruck
-      </td>
-      <td align="center">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/quick-draw-default.png" width="60">
-        <br>Quick Draw
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/Last%20Updated-$(date +%Y--%m--%d)-blue?style=for-the-badge&logo=github" alt="Last Updated"/>
+  <img src="https://img.shields.io/badge/Coding%20Since-2023-00BFFF?style=for-the-badge&logo=code" alt="Coding Since"/>
+  <img src="https://img.shields.io/badge/Projects-10+-brightgreen?style=for-the-badge&logo=github" alt="Projects"/>
+  <img src="https://img.shields.io/badge/Repositories-15-ff69b4?style=for-the-badge&logo=github" alt="Repositories"/>
 </p>
 
 <!-- FRASE MOTIVACIONAL -->
