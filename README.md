@@ -81,7 +81,7 @@
 </p>
 
 <!-- LOGROS DE GITHUB -->
- align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dapira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats with achievements"/>
 </p>
 
