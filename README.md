@@ -5,7 +5,7 @@
 
 <!-- TEXTO ESTÁTICO PROFESIONAL -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=2000&color=4A90D9&center=true&vCenter=true&repeat=false&width=700&height=40&lines=Information+Systems+%7C+Software+Architecture+%7C+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=2000&color=4A90D9&center=true&vCenter=true&repeat=false&width=700&height=40&lines=Information+Systems+%7C+Backend+Development+%7C+Mobile+Development" alt="Typing SVG" />
 </h3>
 
 <br>
@@ -13,6 +13,7 @@
 <!-- VISITAS Y SEGUIDORES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dapira&label=Profile%20Views&color=4A90D9&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Dapira?label=Followers&style=flat-square&color=4A90D9&logo=github&logoColor=white" alt="Followers"/>
 </p>
 
 <br>
@@ -21,11 +22,11 @@
 <h3 align="center">Information Systems Engineering Student</h3>
 
 <p align="center">
-  <strong>📍 Based in Spain 🇪🇸</strong><br><br>
-  Passionate about <strong>Information Systems</strong>, <strong>Software Architecture</strong>, and <strong>Emerging Technologies</strong>.<br>
-  Currently pursuing a degree in <strong>Information Systems Engineering</strong> at <a href="https://uah.es/es/" target="_blank"><strong>UAH</strong></a>.<br><br>
-  <strong>Core Interests:</strong> Java · Python · Cloud Computing · AI/ML<br>
-  <strong>Career Goal:</strong> Systems Architect · Technology Innovator
+  <strong>📍 Based in Spain</strong><br><br>
+  Passionate about <strong>Information Systems</strong>, <strong>Backend Development</strong>, and <strong>Mobile Development</strong>.<br>
+  Currently pursuing a degree in <strong>Information Systems Engineering</strong> at <a href="https://www.educa2.madrid.org/web/centro.ies.isaacperal.torrejondeardoz" target="_blank"><strong>IES ISAAC PERAL</strong></a>.<br><br>
+  <strong>Core Interests:</strong> Java · Python · Cloud Computing · Mobile Development<br>
+  <strong>Learning Path:</strong> Backend Systems · Cloud Infrastructure · Mobile Apps
 </p>
 
 <br>
