@@ -65,11 +65,19 @@
 
 <br>
 
-<!-- ESTADÍSTICAS DE GITHUB MEJORADAS -->
-## 📊 GitHub Analytics
+<!-- ESTADÍSTICAS COMPLETAS DE GITHUB -->
+## 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dapira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapira&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dapira&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dapira&theme=tokyonight&no-frame=true&row=3&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 <!-- TROFEOS DE GITHUB -->
