@@ -74,7 +74,6 @@
 <!-- ACTIVIDAD EN TIEMPO REAL -->
 ## ⚡ Real-time Activity
 <p align="center">
-  <img src="https://img.shields.io/badge/Coding%20Since-2023-00BFFF?style=for-the-badge&logo=code" alt="Coding Since"/>
   <img src="https://img.shields.io/badge/Projects-10+-brightgreen?style=for-the-badge&logo=github" alt="Projects"/>
   <img src="https://img.shields.io/badge/Repositories-15-ff69b4?style=for-the-badge&logo=github" alt="Repositories"/>
 </p>
