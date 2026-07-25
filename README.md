@@ -22,7 +22,7 @@
 <h3 align="center">Information Systems Engineering Student</h3>
 
 <p align="center">
-  <strong>📍 Based in Spain</strong><br><br>
+  <strong>📍 Based in Spain 🇪🇸</strong><br><br>
   Passionate about <strong>Information Systems</strong>, <strong>Software Architecture</strong>, and <strong>Emerging Technologies</strong>.<br>
   Currently pursuing a degree in <strong>Information Systems Engineering</strong> at <a href="https://uah.es/es/" target="_blank"><strong>UAH</strong></a>.<br><br>
   <strong>Core Interests:</strong> Java · Python · Cloud Computing · AI/ML<br>
