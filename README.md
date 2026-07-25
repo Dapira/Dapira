@@ -80,14 +80,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Dapira&theme=tokyonight&no-frame=true&row=3&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
-<!-- ESTADÍSTICAS RÁPIDAS -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-329-blue?style=for-the-badge&logo=github" alt="Contributions"/>
-  <img src="https://img.shields.io/badge/Current%20Streak-1-blue?style=for-the-badge&logo=github" alt="Streak"/>
-  <img src="https://img.shields.io/badge/Longest%20Streak-7-blue?style=for-the-badge&logo=github" alt="Longest Streak"/>
+<!-- LOGROS DE GITHUB -->
+ align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dapira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats with achievements"/>
 </p>
-
-
 
 <!-- FRASE MOTIVACIONAL -->
 <div align="center">
