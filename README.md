@@ -14,11 +14,6 @@
   <img src="https://img.shields.io/github/followers/Dapira?label=Followers&style=flat-square&color=4A90D9&logo=github&logoColor=white" alt="Followers"/>
 </p>
 
-<!-- SEPARADOR -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="80%">
-</div>
-
 <!-- PRESENTACIÓN -->
 <h3 align="center">Information Systems Engineering Student</h3>
 
