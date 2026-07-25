@@ -3,7 +3,7 @@
 
 <!-- BANNER PERSONALIZADO CON TEXTO -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello%2C+World!+👋;I'm+David+Rodr%C3%ADguez;Software+Developer+in+Training;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello%2C+World!+👋;I'm+David+Razvan;Software+Developer+in+Training;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
 <!-- GIF HEADER -->
