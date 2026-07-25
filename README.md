@@ -76,11 +76,6 @@
 <h3 align="center">GitHub Analytics</h3>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dapira&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=4A90D9&icon_color=4A90D9&text_color=8892B0&ring_color=4A90D9"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapira&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4A90D9&text_color=8892B0"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dapira&theme=github_dark&hide_border=true&background=0D1117&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9&sideLabels=8892B0&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak"/>
 </p>
 
