@@ -80,9 +80,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Dapira&theme=tokyonight&no-frame=true&row=3&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
-<!-- LOGROS DE GITHUB -->
+<!-- GRÁFICO DE ACTIVIDAD CON COLORES PERSONALIZADOS -->
+## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dapira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats with achievements"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dapira&theme=github&hide_border=true" alt="Activity Graph"/>
 </p>
 
 <!-- FRASE MOTIVACIONAL -->
