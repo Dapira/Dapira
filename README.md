@@ -27,11 +27,6 @@
 
 <br>
 
-<!-- SEPARADOR -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="80%">
-</div>
-
 <!-- CONEXIONES PROFESIONALES -->
 <h3 align="center">Connect</h3>
 
@@ -58,11 +53,6 @@
 
 <br>
 
-<!-- SEPARADOR -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="80%">
-</div>
-
 <!-- TECH STACK -->
 <h3 align="center">Technical Stack</h3>
 
@@ -82,11 +72,6 @@
 
 <br>
 
-<!-- SEPARADOR -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="80%">
-</div>
-
 <!-- ESTADÍSTICAS -->
 <h3 align="center">GitHub Analytics</h3>
 
@@ -104,11 +89,6 @@
 </p>
 
 <br>
-
-<!-- SEPARADOR -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="80%">
-</div>
 
 <!-- ACTIVIDAD -->
 <h3 align="center">Activity</h3>
