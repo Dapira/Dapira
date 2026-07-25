@@ -8,11 +8,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=2000&color=4A90D9&center=true&vCenter=true&repeat=false&width=700&height=40&lines=Information+Systems+%7C+Software+Architecture+%7C+Innovation" alt="Typing SVG" />
 </h3>
 
+<br>
+
 <!-- VISITAS Y SEGUIDORES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dapira&label=Profile%20Views&color=4A90D9&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Dapira?label=Followers&style=flat-square&color=4A90D9&logo=github&logoColor=white" alt="Followers"/>
 </p>
+
+<br>
 
 <!-- PRESENTACIÓN -->
 <h3 align="center">Information Systems Engineering Student</h3>
@@ -25,6 +29,7 @@
   <strong>Career Goal:</strong> Systems Architect · Technology Innovator
 </p>
 
+<br>
 <br>
 
 <!-- CONEXIONES PROFESIONALES -->
@@ -52,6 +57,7 @@
 </p>
 
 <br>
+<br>
 
 <!-- TECH STACK -->
 <h3 align="center">Technical Stack</h3>
@@ -71,6 +77,7 @@
 </p>
 
 <br>
+<br>
 
 <!-- ESTADÍSTICAS -->
 <h3 align="center">GitHub Analytics</h3>
@@ -84,6 +91,7 @@
 </p>
 
 <br>
+<br>
 
 <!-- ACTIVIDAD -->
 <h3 align="center">Activity</h3>
@@ -94,15 +102,18 @@
   <img src="https://img.shields.io/badge/Active%20Since-2023-4A90D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Since"/>
 </p>
 
+<br>
+<br>
+
 <!-- CITA -->
 <div align="center">
-  <br>
   <p>
     <em>"Talk is cheap. Show me the code."</em><br>
     <strong>— Linus Torvalds</strong>
   </p>
-  <br>
 </div>
+
+<br>
 
 <!-- FOOTER -->
 <div align="center">
