@@ -76,10 +76,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dapira&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dapira&theme=tokyonight&no-frame=true&row=3&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
 <!-- GRÁFICO DE ACTIVIDAD CON COLORES PERSONALIZADOS -->
 ## 📈 Activity Graph
 <p align="center">
