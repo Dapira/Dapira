@@ -71,10 +71,25 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dapira&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<!-- GRÁFICO DE ACTIVIDAD CON COLORES PERSONALIZADOS -->
-## 📈 Activity Graph
+<!-- LOGROS DESBLOQUEADOS -->
+## 🏅 Unlocked Achievements
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dapira&theme=github&hide_border=true" alt="Activity Graph"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60">
+        <br>Pull Shark
+      </td>
+      <td align="center">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60">
+        <br>Starstruck
+      </td>
+      <td align="center">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/quick-draw-default.png" width="60">
+        <br>Quick Draw
+      </td>
+    </tr>
+  </table>
 </p>
 
 <!-- FRASE MOTIVACIONAL -->
