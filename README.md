@@ -22,9 +22,9 @@
 <h3 align="center">Information Systems Engineering Student</h3>
 
 <p align="center">
-  <strong>📍 Based in Spain</strong><br><br>
+  <strong>📍 Based in Spain 🇪🇸</strong><br><br>
   Passionate about <strong>Information Systems</strong>, <strong>Backend Development</strong>, and <strong>Mobile Development</strong>.<br>
-  Currently pursuing a degree in <strong>Information Systems Engineering</strong> at <a href="https://www.educa2.madrid.org/web/centro.ies.isaacperal.torrejondeardoz" target="_blank"><strong>IES ISAAC PERAL</strong></a>.<br><br>
+  Currently pursuing a degree in <strong>Information Systems Engineering</strong> at <a href="https://www.uah.es/es/" target="_blank"><strong>Universidad de Alcalá (UAH)</strong></a>.<br><br>
   <strong>Core Interests:</strong> Java · Python · Cloud Computing · Mobile Development<br>
   <strong>Learning Path:</strong> Backend Systems · Cloud Infrastructure · Mobile Apps
 </p>
@@ -69,7 +69,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" alt="Docker"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0D1117" alt="Azure"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117" alt="Linux"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=0D1117" alt="Android Studio"/>
