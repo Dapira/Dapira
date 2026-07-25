@@ -1,13 +1,17 @@
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<!-- BANNER DE TEXTO CON GRADIENTE ANIMADO -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=David%20Razvan&fontSize=60&fontAlignY=35&desc=Software%20Developer%20in%20Training&descAlignY=60&animation=twinkling" alt="Header" width="100%"/>
+</div>
 
 <!-- BANNER PERSONALIZADO CON TEXTO -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello%2C+World!+👋;I'm+David+Razvan;Software+Developer+in+Training;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
-<!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+<!-- SEPARADOR CON ESTRELLAS ANIMADAS -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <!-- CONTADOR DE VISITAS CON ESTILO -->
 <p align="center"> 
@@ -25,6 +29,11 @@
 </p>
 
 <br>
+
+<!-- SEPARADOR CON LÍNEA NEÓN -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%">
+</div>
 
 <!-- CONTACTO CON BADGES ANIMADOS -->
 ## 🌐 Connect with Me
@@ -48,6 +57,11 @@
 
 <br>
 
+<!-- SEPARADOR CON CÓDIGO ANIMADO -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&repeat=false&width=500&lines=████████████████████████████" alt="Separator"/>
+</div>
+
 <!-- TECNOLOGÍAS CON BADGES MODERNOS -->
 ## 🛠️ Tech Stack
 <p align="center">
@@ -64,6 +78,11 @@
 </p>
 
 <br>
+
+<!-- SEPARADOR CON GRADIENTE -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <!-- ESTADÍSTICAS COMPLETAS DE GITHUB -->
 ## 📊 GitHub Stats
@@ -85,8 +104,7 @@
 
 <br>
 
-<!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
-
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<!-- FOOTER CON ONDAS -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=65" alt="Footer" width="100%"/>
+</div>
