@@ -23,7 +23,7 @@
 
 <p align="center">
   <strong>📍 Based in Spain 🇪🇸</strong><br><br>
-  Passionate about <strong>Information Systems</strong>, <strong>Backend Development</strong>, and <strong>Mobile Development</strong>.<br>
+ I enjoy working on backend systems, creating mobile experiences, and learning how information systems shape the digital world.
   Currently pursuing a degree in <strong>Information Systems Engineering</strong> at <a href="https://www.uah.es/es/" target="_blank"><strong>Universidad de Alcalá (UAH)</strong></a>.<br><br>
   <strong>Core Interests:</strong> Java · Python · Cloud Computing · Mobile Development<br>
   <strong>Learning Path:</strong> Backend Systems · Cloud Infrastructure · Mobile Apps
