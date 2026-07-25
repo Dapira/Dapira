@@ -13,7 +13,6 @@
 <!-- VISITAS Y SEGUIDORES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dapira&label=Profile%20Views&color=4A90D9&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Dapira?label=Followers&style=flat-square&color=4A90D9&logo=github&logoColor=white" alt="Followers"/>
 </p>
 
 <br>
