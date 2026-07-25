@@ -19,9 +19,24 @@
 - 📫 How to reach me **grivanni03@gmail.com**
 
 <!-- CONTACTO -->
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect with me
+
 <p align="left">
-<a href="https://discord.com/users/972856677676249178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a><a href="https://www.instagram.com/david.drp16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="david.drp16" height="30" width="40" /></a>
+  <a href="https://discord.com/users/972856677676249178" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+
+  <a href="https://www.instagram.com/david.drp16/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <a href="https://me.developers.google.com/u/grivani" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer"/>
+  </a>
+
+  <a href="https://stackoverflow.com/users/23345539/dapira" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
 </p>
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
