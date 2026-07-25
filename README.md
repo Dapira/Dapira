@@ -67,9 +67,6 @@
 
 <!-- ESTADÍSTICAS COMPLETAS DE GITHUB -->
 ## 📊 GitHub Stats
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapira&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dapira&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
