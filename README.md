@@ -89,20 +89,7 @@
 <br>
 
 <!-- ACTIVIDAD -->
-<h3 align="center">Activity</h3>
-
-<h3 align="center">GitHub Activity</h3>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Dapira&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapira&layout=compact&theme=github_dark&hide_border=true"
-    height="170"
-  />
-</p>
+<img src="https://img.shields.io/github/repos/Dapira?style=for-the-badge">
 
 <br>
 <br>
