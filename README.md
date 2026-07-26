@@ -13,7 +13,6 @@
 <!-- VISITAS Y SEGUIDORES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dapira&label=Profile%20Views&color=4A90D9&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Dapira?label=Followers&style=flat-square&color=4A90D9&logo=github&logoColor=white" alt="Followers"/>
 </p>
 
 <br>
@@ -50,9 +49,6 @@
   </a>
   <a href="https://me.developers.google.com/u/grivani" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" alt="Google Developer"/>
-  </a>
-  <a href="https://www.instagram.com/david.drp16/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram"/>
   </a>
 </p>
 
@@ -95,10 +91,17 @@
 <!-- ACTIVIDAD -->
 <h3 align="center">Activity</h3>
 
+<h3 align="center">GitHub Activity</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects-10+-4A90D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Projects"/>
-  <img src="https://img.shields.io/badge/Repositories-15-4A90D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Repositories"/>
-  <img src="https://img.shields.io/badge/Active%20Since-2023-4A90D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Since"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Dapira&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapira&layout=compact&theme=github_dark&hide_border=true"
+    height="170"
+  />
 </p>
 
 <br>
