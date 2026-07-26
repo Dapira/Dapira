@@ -89,7 +89,7 @@
 <br>
 
 <!-- ACTIVIDAD -->
-<img src="https://img.shields.io/github/followers/Dapira?style=for-the-badge">
+<img src="https://img.shields.io/github/repositories/Dapira?style=for-the-badge">
 
 <br>
 <br>
