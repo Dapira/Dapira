@@ -78,10 +78,6 @@
 <h3 align="center">GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dapira&theme=github_dark&hide_border=true&background=0D1117&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9&sideLabels=8892B0&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dapira&theme=github_dark&bg_color=0D1117" alt="Profile Details"/>
 </p>
 
