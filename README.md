@@ -73,7 +73,7 @@
 
 <br>
 <br>
- [![GitHub Streak](https://streak-stats.demolab.com?user=dapira&theme=tokyonight)](https://git.io/streak-stats)
+  
 <!-- ESTADÍSTICAS -->
 <h3 align="center">GitHub Analytics</h3>
 <p align="center">
