@@ -12,7 +12,10 @@
 
 <!-- VISITAS Y SEGUIDORES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dapira&label=Profile%20Views&color=4A90D9&style=flat-square" alt="Profile Views"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=Dapira&label=Profile%20Views&color=60A5FA&style=flat-square"
+    alt="Profile Views"
+  />
 </p>
 
 <br>
