@@ -76,8 +76,10 @@
   
 <h3 align="center">GitHub Analytics</h3>
 
+<h3 align="center">GitHub Analytics</h3>
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dapira&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dapira&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapira&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
