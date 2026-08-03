@@ -10,14 +10,6 @@
 
 <br>
 
-<!-- VISITAS Y SEGUIDORES -->
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Dapira&label=Profile%20Views&color=60A5FA&style=flat-square"
-    alt="Profile Views"
-  />
-</p>
-
 <br>
 
 <!-- PRESENTACIÓN -->
