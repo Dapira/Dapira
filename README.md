@@ -1,4 +1,4 @@
-<!-- HEADER CORPORATIVO -->
+ñ<!-- HEADER CORPORATIVO -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a1a2e&height=180&section=header&text=David%20Razvan&fontSize=50&fontAlignY=35&desc=Information%20Systems%20Engineering%20Student&descAlignY=55&descSize=16&fontColor=4A90D9" alt="Header" width="100%"/>
 </div>
@@ -76,12 +76,7 @@
   
 <h3 align="center">GitHub Analytics</h3>
 
-<h3 align="center">GitHub Analytics</h3>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dapira&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapira&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=dapira&show_icons=true&theme=github_dark&hide_border=true" />
 
 <!-- CITA -->
 <div align="center">
