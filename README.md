@@ -1,4 +1,4 @@
-ñ<!-- HEADER CORPORATIVO -->
+<!-- HEADER CORPORATIVO -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a1a2e&height=180&section=header&text=David%20Razvan&fontSize=50&fontAlignY=35&desc=Information%20Systems%20Engineering%20Student&descAlignY=55&descSize=16&fontColor=4A90D9" alt="Header" width="100%"/>
 </div>
@@ -75,8 +75,8 @@
 <br>
   
 <h3 align="center">GitHub Analytics</h3>
+![Metrics](https://raw.githubusercontent.com/dapira/dapira/main/github-metrics.svg)
 
-<img src="https://github-readme-stats.vercel.app/api?username=dapira&show_icons=true&theme=github_dark&hide_border=true" />
 
 <!-- CITA -->
 <div align="center">
