@@ -76,6 +76,9 @@
   
 <h3 align="center">GitHub Analytics</h3>
 ![Metrics](https://raw.githubusercontent.com/dapira/dapira/main/github-metrics.svg)
+<p align="center">
+  <img src="./github-metrics.svg" />
+</p>
 
 
 <!-- CITA -->
