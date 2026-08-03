@@ -74,21 +74,12 @@
 <br>
 <br>
   
-<!-- ESTADÍSTICAS -->
 <h3 align="center">GitHub Analytics</h3>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dapira&theme=github-dark-blue&hide_border=true" />
-</p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dapira&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dapira&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapira&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-
-<br>
-<br>
-
-<br>
-<br>
 
 <!-- CITA -->
 <div align="center">
